@@ -13,8 +13,12 @@ Sono un appassionato di tecnologia e sicurezza informatica.
   Attualmente sto completando la mia laurea magistrale con una specializzazione in sicurezza informatica. Durante questi studi, mi sono concentrato su temi quali la crittografia, la sicurezza delle reti e la protezione dei dati. Il mio obiettivo è quello di diventare un esperto nella protezione di sistemi informatici complessi contro minacce sempre più sofisticate.
 
 #### **Sviluppo Software e Web**
-- **Linguaggi di Programmazione:**  
-  Java · Python · JavaScript · PHP · SQL · XML · JSON · HTML5 · CSS3
+- **Linguaggi di Programmazione:**
+  Java · Python · JavaScript · PHP
+- **Linguaggi di Markup e Formati di Dati:**
+  HTML5 · CSS3 · XML · JSON
+- **Linguaggi di Query:**
+  SQL
 - **Framework e Librerie:**  
   Spring Framework · Spring Security · Bootstrap · jQuery · Apache Cordova · PhoneGap · MapBox · Volley
 - **Design e Architettura:**  
