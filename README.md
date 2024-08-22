@@ -26,7 +26,7 @@ Sono un appassionato di tecnologia e sicurezza informatica.
 - **Strumenti e Tecnologie Web:**  
   REST API · OAuth2.0 · AJAX · Testing · Debugging · Progettazione e gestione di database (MySQL, SQLite, PostgreSQL, XAMPP, pgAdmin4)
 - **Sviluppo Mobile:**  
-  Android SDK · Sviluppo per Android · acquisizione e calcolo della posizione · Google Play Services · Room
+  Android SDK · Sviluppo per Android · Google Play Services · Room
 
 ### 🔍 Interessi
 
