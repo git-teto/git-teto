@@ -14,7 +14,7 @@ Sono un appassionato di tecnologia e sicurezza informatica.
 
 #### **Sviluppo Software e Web**
 - **Linguaggi di Programmazione:**
-  Java · Python · JavaScript · PHP
+  Java · Python · JavaScript · PHP · C
 - **Linguaggi di Markup e Formati di Dati:**
   HTML5 · CSS3 · XML · JSON
 - **Linguaggi di Query:**
