@@ -34,11 +34,11 @@ Sono particolarmente interessato a tutto ciò che riguarda la sicurezza e la tec
 
 ### 🌟 Su di me
 
-Ho sviluppato competenze comunicative e relazionali solide, grazie all'interazione costante con diverse fasce d'età e alla collaborazione con colleghi e volontari. Sono specializzato nella pianificazione e nell'organizzazione di campi estivi, centri estivi e attività ludiche, con un forte focus sulla gestione del gruppo e sulla creazione di un ambiente educativo sicuro e stimolante.
+Ho sviluppato,tramite la mia attività di volontariato in oratorio, competenze comunicative e relazionali solide, grazie all'interazione costante con diverse fasce d'età e alla collaborazione con colleghi e volontari. Sono specializzato nella pianificazione e nell'organizzazione di campi estivi, centri estivi e attività ludiche, con un forte focus sulla gestione del gruppo e sulla creazione di un ambiente educativo sicuro e stimolante.
 
 Le mie esperienze mi hanno permesso di acquisire capacità organizzative e di leadership, guidando team di animatori e coordinando eventi complessi. Sono in grado di trovare soluzioni rapide a problemi imprevisti e mantenendo sempre un approccio positivo e proattivo.
 
-Credo fermamente nel potere dell'educazione e del gioco come strumenti per la crescita personale e sociale dei giovani. Sono sempre alla ricerca di nuove opportunità per contribuire con la mia esperienza e le mie competenze a progetti educativi e ricreativi di valore.
+Credo fermamente nel potere dell'educazione e del gioco come strumenti per la crescita personale e sociale dei giovani. 
 
 
 
