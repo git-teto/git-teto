@@ -19,6 +19,10 @@ Sono un appassionato di tecnologia e sicurezza informatica.
   HTML5 · CSS3 · XML · JSON
 - **Linguaggi di Query:**
   SQL
+- **Security:**
+  Linux, Whireshark, Nmap
+- **Protocolli:**
+   HTTP, TCP/IP, ARP, ToR
 - **Framework e Librerie:**  
   Spring Framework · Spring Security · Bootstrap · jQuery · Apache Cordova · PhoneGap · MapBox · Volley
 - **Design e Architettura:**  
