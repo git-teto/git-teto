@@ -46,7 +46,7 @@ Ora di musica non ci capisco nulla però mi piace cercare di capire sempre di pi
 Alle superiori scoprii quanto è appagante risolvere un problema di informatica e quanto potessi essere testardo nel volerci riuscire.
 Mi piaceva l'idea che conoscendo alcune semplici istruzioni si potesse risolvere qualsiasi problema si volesse. Era come dire "hai tutto ciò che ti serve, devi solo trovare il modo". Spettacolare.
 Mi iscrissi a Informatica volendo seguire questa mia passione e ammetto che è stata una bella sfida per me, ma li ho scoperto che ciò che cercavo veramente erano gli aspetti di sicurezza. Vedere come la furbizia di alcuni potesse mettere sotto scatto chiunque in poco tempo mi intrigava e volevo capirci di più. 
-La magistrale in Sicurezza Informatica è volata ma sono consapevole che so solo una goccia di grosso mare, ora voglio tuffarmici dentro!
+La magistrale in Sicurezza Informatica è volata ma sono consapevole che so solo una goccia di un grosso mare, ora voglio tuffarmici dentro!
 
 
 
