@@ -8,7 +8,7 @@ Quando avevo 4 anni mio papà portò a casa il primo computer e lo mise nella st
 Qualche anno dopo mio papà mi portò a sentire lui con il suo gruppo che suonavano ma malaguratamente per lui il pianista del gruppo era un informatico e con molta pazienza rispose a tutte le mie domande su come si potesse creare un sito web. Non ci capii nulla ma volli registrare il discorso per un futuro dove ci avrei capito. 
 Avevo 7 anni.
 
-Ora di musica non ci capisco nulla però mi piace cercare di capire sempre di più "come funziona il computer" e tutto ciò che ci ruota attorno e per mia fortuna o sfortuna a questo mondo piace sempre cambiare.
+Ora di musica non ci capisco nulla però mi piace cercare di capire sempre di più di "come funziona un computer" e tutto ciò che ci ruota attorno e per mia fortuna o sfortuna a questo mondo piace sempre cambiare.
 
 Alle superiori scoprii quanto è appagante risolvere un problema di informatica e quanto potessi essere testardo nel volerci riuscire.
 Mi piaceva l'idea che conoscendo alcune semplici istruzioni si potesse risolvere qualsiasi problema si volesse. Era come dire "hai tutto ciò che ti serve, devi solo trovare il modo". Spettacolare.
