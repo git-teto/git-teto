@@ -53,6 +53,9 @@ Sono particolarmente interessato a tutto ciò che riguarda la sicurezza e la tec
 
 ![Priorità](https://github.com/git-teto/git-teto/blob/main/photo_5983515362253195963_y.jpg)
 
+<img src="https://github.com/git-teto/git-teto/blob/main/photo_5983515362253195963_y.jpg" width="400"/>
+
+
 
 
 
