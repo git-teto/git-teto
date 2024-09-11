@@ -51,6 +51,9 @@ La magistrale in Sicurezza Informatica è volata ma sono consapevole che so solo
 
 Sono particolarmente interessato a tutto ciò che riguarda la sicurezza e la tecnologia ma anche alla storia e all'animazione nei centri estivi.
 
+![Priorità](https://github.com/git-teto/git-teto/blob/main/photo_5983515362253195963_y.jpg)
+
+
 
 
 
