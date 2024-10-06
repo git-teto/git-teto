@@ -41,7 +41,7 @@ La magistrale in Sicurezza Informatica è volata ma sono consapevole che so solo
 - **Framework e Librerie:**  
   Spring Framework · Spring Security · Bootstrap · jQuery · Apache Cordova · PhoneGap · MapBox · Volley
 - **Design e Architettura:**  
-  Model–view–controller (MVC) · Web design responsivo · OOP (Object-Oriented Programming) · Multithreading
+  Model–view–controller (MVC) · Singleton · Adapter · Observer · DAO· Web design responsivo · OOP (Object-Oriented Programming) · Multithreading
 - **Strumenti e Tecnologie Web:**  
   REST API · OAuth2.0 · AJAX · Testing · Debugging · Progettazione e gestione di database (MySQL, SQLite, PostgreSQL, XAMPP, pgAdmin4)
 - **Sviluppo Mobile:**  
